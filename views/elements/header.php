@@ -61,16 +61,18 @@
       <li class="nav-item active">
         <a class="nav-link" href="<?php echo BASE_URL?>">
           <i class="fas fa-fw fa-tachometer-alt"></i>
-          <span>Dashboard</span></a>
+          <span>Main</span></a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="<?php echo BASE_URL?>application/models/MOCK_DATA.csv" target="_blank">
+          <i class="fa fa-download"></i>
+          <span>Mock CSV File</span></a>
       </li>
 
       <!-- Divider -->
       <!--<hr class="sidebar-divider">-->
 
-      <!-- Sidebar Toggler (Sidebar) -->
-      <div class="text-center d-none d-md-inline">
-        <button class="rounded-circle border-0" id="sidebarToggle"></button>
-      </div>
+      
 
     </ul>
     <!-- End of Sidebar -->
