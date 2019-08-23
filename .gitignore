@@ -1,0 +1,13 @@
+
+application/config.php
+application/libraries
+application/plugins
+.idea/
+views/css/_notes/dwsync.xml
+views/elements/_notes/dwsync.xml
+views/img/_notes/dwsync.xml
+views/assets/.DS_Store
+views/assets/css/.DS_Store
+views/assets/img/.DS_Store
+views/assets/scss/.DS_Store
+.DS_Store
