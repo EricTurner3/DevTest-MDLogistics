@@ -3,6 +3,10 @@ Dev Test for MD Logistics
 
 This application is for the dev test: https://devtest.ericturner.it/
 
+Data was generated from https://mockaroo.com/
+
+The download link for the CSV used in the DataTable is on the sidebar, also here: https://devtest.ericturner.it/application/models/MOCK_DATA.csv
+
 The model-view-controller layout is mine that I have honed over the past few years through college and work
 
 The HTML template is SB Admin 2, provided here for free: https://startbootstrap.com/themes/sb-admin-2/
