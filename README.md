@@ -1,7 +1,7 @@
 Dev Test for MD Logistics 
 ==============
 
-This application is for the dev test
+This application is for the dev test: https://devtest.ericturner.it/
 
 The model-view-controller layout is mine that I have honed over the past few years through college and work
 
