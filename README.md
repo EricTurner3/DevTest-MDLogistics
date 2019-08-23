@@ -14,5 +14,5 @@ You can make a POST or GET request (using a body or query parameters) to https:/
 Use body/query parameters of first and last such as:
 first & last
 
-![alt text] (https://i.postimg.cc/Hd7njdCD/Screen-Shot-2019-08-23-at-7-38-29-AM.png "Image of Postman POST")
+![alt text](https://i.postimg.cc/Hd7njdCD/Screen-Shot-2019-08-23-at-7-38-29-AM.png "Image of Postman POST")
 Here is a view of the POST in Postman
